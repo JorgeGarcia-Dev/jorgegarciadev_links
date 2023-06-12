@@ -24,8 +24,16 @@ html {
     margin-bottom: 40px;
 }
 
-.subtitle {
+.title {
     color: #ffeb3b;
+}
+
+.subtitle {
+    font-size: larger;
+}
+
+.description {
+    font-size: small;
 }
 
 .proyectos {
